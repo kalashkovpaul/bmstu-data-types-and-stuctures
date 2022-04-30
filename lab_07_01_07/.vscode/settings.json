@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "constants.h": "c",
+        "time.h": "c",
+        "bst_node.h": "c",
+        "actions.h": "c"
+    }
+}

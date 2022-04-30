@@ -1,0 +1,12 @@
+{
+    "configurations": [
+        {
+            "name": "conf",
+            "includePath": ["${workspaceFolder}/**"],
+            "defines": [],
+            "compilerPath": "/usr/bin/gcc",
+            "cStandart": "c99"
+        }
+    ],
+    "version": 4
+}

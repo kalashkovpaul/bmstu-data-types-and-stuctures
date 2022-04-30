@@ -1,0 +1,1053 @@
+Name_0
+Publishing house_0
+933
+Technical
+Web-development
+National
+Untranslated
+1858
+Name_1
+Publishing house_1
+752
+Technical
+Programming
+National
+Translated
+1961
+Name_2
+Publishing house_2
+843
+Children's
+Not tales
+Children's poetry
+Name_3
+Publishing house_3
+330
+Technical
+Math
+Foreign
+Translated
+1807
+Name_4
+Publishing house_4
+972
+Children's
+Not tales
+Children's poetry
+Name_5
+Publishing house_5
+549
+Technical
+Calculus
+National
+Translated
+1807
+Name_6
+Publishing house_6
+190
+Technical
+Geometry
+Foreign
+Untranslated
+1950
+Name_7
+Publishing house_7
+862
+Children's
+Tales
+Children's poetry
+Name_8
+Publishing house_8
+710
+Technical
+Calculus
+National
+Translated
+1947
+Name_9
+Publishing house_9
+675
+Technical
+Web-development
+Foreign
+Untranslated
+1985
+Name_10
+Publishing house_10
+629
+Technical
+Testing
+Foreign
+Translated
+1964
+Name_11
+Publishing house_11
+104
+Fiction
+Novel
+Not play
+Prose
+Name_12
+Publishing house_12
+932
+Fiction
+Novel
+Not play
+Poetry
+Name_13
+Publishing house_13
+119
+Technical
+Testing
+National
+Translated
+2009
+Name_14
+Publishing house_14
+497
+Children's
+Not tales
+Children's poetry
+Name_15
+Publishing house_15
+356
+Children's
+Tales
+Children's poetry
+Name_16
+Publishing house_16
+7
+Children's
+Tales
+Children's prose
+Name_17
+Publishing house_17
+352
+Children's
+Tales
+Children's prose
+Name_18
+Publishing house_18
+801
+Fiction
+Not novel
+Play
+Poetry
+Name_19
+Publishing house_19
+656
+Children's
+Tales
+Children's poetry
+Name_20
+Publishing house_20
+42
+Children's
+Not tales
+Children's prose
+Name_21
+Publishing house_21
+1
+Children's
+Not tales
+Children's prose
+Name_22
+Publishing house_22
+571
+Technical
+Web-development
+National
+Untranslated
+1817
+Name_23
+Publishing house_23
+625
+Technical
+Geometry
+Foreign
+Translated
+1901
+Name_24
+Publishing house_24
+187
+Technical
+Geometry
+National
+Untranslated
+1900
+Name_25
+Publishing house_25
+913
+Fiction
+Not novel
+Play
+Poetry
+Name_26
+Publishing house_26
+521
+Technical
+Calculus
+National
+Untranslated
+2006
+Name_27
+Publishing house_27
+503
+Children's
+Not tales
+Children's poetry
+Name_28
+Publishing house_28
+988
+Children's
+Tales
+Children's poetry
+Name_29
+Publishing house_29
+188
+Technical
+Geometry
+Foreign
+Translated
+1990
+Name_30
+Publishing house_30
+209
+Fiction
+Not novel
+Play
+Poetry
+Name_31
+Publishing house_31
+900
+Children's
+Tales
+Children's poetry
+Name_32
+Publishing house_32
+952
+Fiction
+Novel
+Not play
+Prose
+Name_33
+Publishing house_33
+905
+Technical
+Programming
+Foreign
+Untranslated
+2025
+Name_34
+Publishing house_34
+860
+Technical
+Calculus
+National
+Untranslated
+1866
+Name_35
+Publishing house_35
+219
+Technical
+Testing
+National
+Untranslated
+1904
+Name_36
+Publishing house_36
+61
+Children's
+Not tales
+Children's prose
+Name_37
+Publishing house_37
+365
+Technical
+Web-development
+National
+Translated
+2016
+Name_38
+Publishing house_38
+319
+Children's
+Tales
+Children's prose
+Name_39
+Publishing house_39
+993
+Technical
+Geometry
+Foreign
+Translated
+1915
+Name_40
+Publishing house_40
+730
+Fiction
+Novel
+Play
+Prose
+Name_41
+Publishing house_41
+948
+Children's
+Tales
+Children's prose
+Name_42
+Publishing house_42
+760
+Children's
+Not tales
+Children's prose
+Name_43
+Publishing house_43
+143
+Fiction
+Novel
+Play
+Poetry
+Name_44
+Publishing house_44
+149
+Children's
+Not tales
+Children's poetry
+Name_45
+Publishing house_45
+417
+Technical
+Geometry
+National
+Untranslated
+1925
+Name_46
+Publishing house_46
+112
+Children's
+Tales
+Children's poetry
+Name_47
+Publishing house_47
+53
+Technical
+Data
+National
+Translated
+1976
+Name_48
+Publishing house_48
+77
+Children's
+Tales
+Children's prose
+Name_49
+Publishing house_49
+728
+Children's
+Tales
+Children's poetry
+Name_50
+Publishing house_50
+870
+Technical
+Web-development
+National
+Untranslated
+1920
+Name_51
+Publishing house_51
+604
+Technical
+Testing
+National
+Untranslated
+1939
+Name_52
+Publishing house_52
+702
+Technical
+Data
+Foreign
+Untranslated
+2012
+Name_53
+Publishing house_53
+563
+Fiction
+Novel
+Play
+Prose
+Name_54
+Publishing house_54
+467
+Children's
+Not tales
+Children's poetry
+Name_55
+Publishing house_55
+528
+Children's
+Tales
+Children's prose
+Name_56
+Publishing house_56
+520
+Fiction
+Not novel
+Not play
+Prose
+Name_57
+Publishing house_57
+477
+Technical
+Programming
+Foreign
+Untranslated
+2000
+Name_58
+Publishing house_58
+719
+Technical
+Linear algebra
+National
+Translated
+1949
+Name_59
+Publishing house_59
+751
+Fiction
+Novel
+Not play
+Prose
+Name_60
+Publishing house_60
+695
+Fiction
+Novel
+Play
+Prose
+Name_61
+Publishing house_61
+616
+Technical
+Data
+Foreign
+Untranslated
+1917
+Name_62
+Publishing house_62
+404
+Fiction
+Novel
+Play
+Poetry
+Name_63
+Publishing house_63
+936
+Children's
+Tales
+Children's poetry
+Name_64
+Publishing house_64
+563
+Children's
+Not tales
+Children's prose
+Name_65
+Publishing house_65
+51
+Technical
+Testing
+National
+Untranslated
+1940
+Name_66
+Publishing house_66
+809
+Technical
+Programming
+Foreign
+Translated
+1853
+Name_67
+Publishing house_67
+209
+Children's
+Not tales
+Children's prose
+Name_68
+Publishing house_68
+634
+Children's
+Tales
+Children's prose
+Name_69
+Publishing house_69
+31
+Technical
+Math
+Foreign
+Untranslated
+1873
+Name_70
+Publishing house_70
+165
+Children's
+Tales
+Children's poetry
+Name_71
+Publishing house_71
+458
+Children's
+Not tales
+Children's poetry
+Name_72
+Publishing house_72
+229
+Technical
+Data
+National
+Untranslated
+1924
+Name_73
+Publishing house_73
+243
+Technical
+Testing
+Foreign
+Untranslated
+1807
+Name_74
+Publishing house_74
+912
+Fiction
+Novel
+Not play
+Prose
+Name_75
+Publishing house_75
+92
+Fiction
+Novel
+Not play
+Prose
+Name_76
+Publishing house_76
+437
+Fiction
+Not novel
+Play
+Poetry
+Name_77
+Publishing house_77
+273
+Technical
+Linear algebra
+National
+Untranslated
+2026
+Name_78
+Publishing house_78
+859
+Children's
+Not tales
+Children's poetry
+Name_79
+Publishing house_79
+484
+Fiction
+Not novel
+Not play
+Poetry
+Name_80
+Publishing house_80
+454
+Fiction
+Novel
+Not play
+Poetry
+Name_81
+Publishing house_81
+883
+Children's
+Tales
+Children's prose
+Name_82
+Publishing house_82
+847
+Technical
+Math
+Foreign
+Untranslated
+1834
+Name_83
+Publishing house_83
+133
+Technical
+Linear algebra
+Foreign
+Translated
+1928
+Name_84
+Publishing house_84
+506
+Children's
+Not tales
+Children's prose
+Name_85
+Publishing house_85
+118
+Children's
+Not tales
+Children's prose
+Name_86
+Publishing house_86
+975
+Fiction
+Novel
+Play
+Prose
+Name_87
+Publishing house_87
+379
+Fiction
+Not novel
+Not play
+Prose
+Name_88
+Publishing house_88
+430
+Fiction
+Novel
+Play
+Poetry
+Name_89
+Publishing house_89
+179
+Technical
+Calculus
+Foreign
+Translated
+1863
+Name_90
+Publishing house_90
+55
+Technical
+Math
+National
+Translated
+1917
+Name_91
+Publishing house_91
+897
+Technical
+Math
+National
+Untranslated
+1964
+Name_92
+Publishing house_92
+506
+Technical
+Math
+Foreign
+Translated
+1866
+Name_93
+Publishing house_93
+852
+Children's
+Not tales
+Children's prose
+Name_94
+Publishing house_94
+616
+Children's
+Not tales
+Children's prose
+Name_95
+Publishing house_95
+185
+Technical
+Geometry
+National
+Untranslated
+1853
+Name_96
+Publishing house_96
+110
+Technical
+Web-development
+Foreign
+Translated
+1922
+Name_97
+Publishing house_97
+605
+Technical
+Testing
+National
+Translated
+2011
+Name_98
+Publishing house_98
+680
+Fiction
+Novel
+Not play
+Prose
+Name_99
+Publishing house_99
+832
+Fiction
+Not novel
+Not play
+Prose
+Name_100
+Publishing house_100
+666
+Fiction
+Not novel
+Play
+Poetry
+Name_101
+Publishing house_101
+922
+Children's
+Tales
+Children's prose
+Name_102
+Publishing house_102
+957
+Fiction
+Novel
+Not play
+Prose
+Name_103
+Publishing house_103
+232
+Children's
+Tales
+Children's prose
+Name_104
+Publishing house_104
+609
+Fiction
+Not novel
+Not play
+Prose
+Name_105
+Publishing house_105
+152
+Children's
+Tales
+Children's prose
+Name_106
+Publishing house_106
+704
+Fiction
+Not novel
+Play
+Poetry
+Name_107
+Publishing house_107
+128
+Technical
+Linear algebra
+National
+Translated
+2014
+Name_108
+Publishing house_108
+164
+Fiction
+Not novel
+Not play
+Poetry
+Name_109
+Publishing house_109
+829
+Fiction
+Not novel
+Not play
+Prose
+Name_110
+Publishing house_110
+451
+Children's
+Not tales
+Children's poetry
+Name_111
+Publishing house_111
+379
+Technical
+Testing
+Foreign
+Translated
+1990
+Name_112
+Publishing house_112
+78
+Technical
+Data
+National
+Untranslated
+1868
+Name_113
+Publishing house_113
+402
+Children's
+Tales
+Children's prose
+Name_114
+Publishing house_114
+976
+Technical
+Testing
+National
+Untranslated
+1974
+Name_115
+Publishing house_115
+761
+Children's
+Tales
+Children's poetry
+Name_116
+Publishing house_116
+805
+Fiction
+Novel
+Not play
+Prose
+Name_117
+Publishing house_117
+757
+Fiction
+Not novel
+Play
+Poetry
+Name_118
+Publishing house_118
+856
+Technical
+Programming
+Foreign
+Translated
+1987
+Name_119
+Publishing house_119
+338
+Fiction
+Not novel
+Not play
+Prose
+Name_120
+Publishing house_120
+970
+Children's
+Not tales
+Children's prose
+Name_121
+Publishing house_121
+596
+Fiction
+Novel
+Not play
+Prose
+Name_122
+Publishing house_122
+7
+Technical
+Calculus
+National
+Translated
+1968
+Name_123
+Publishing house_123
+854
+Children's
+Tales
+Children's poetry
+Name_124
+Publishing house_124
+449
+Children's
+Tales
+Children's prose
+Name_125
+Publishing house_125
+821
+Fiction
+Not novel
+Play
+Poetry
+Name_126
+Publishing house_126
+267
+Fiction
+Novel
+Not play
+Poetry
+Name_127
+Publishing house_127
+983
+Children's
+Not tales
+Children's poetry
+Name_128
+Publishing house_128
+596
+Fiction
+Not novel
+Play
+Prose
+Name_129
+Publishing house_129
+213
+Children's
+Tales
+Children's poetry
+Name_130
+Publishing house_130
+397
+Fiction
+Novel
+Play
+Prose
+Name_131
+Publishing house_131
+513
+Technical
+Web-development
+National
+Untranslated
+2000
+Name_132
+Publishing house_132
+866
+Children's
+Not tales
+Children's poetry
+Name_133
+Publishing house_133
+922
+Fiction
+Novel
+Not play
+Poetry
+Name_134
+Publishing house_134
+899
+Fiction
+Novel
+Play
+Prose
+Name_135
+Publishing house_135
+432
+Fiction
+Novel
+Play
+Prose
+Name_136
+Publishing house_136
+186
+Technical
+Linear algebra
+Foreign
+Untranslated
+1987
+Name_137
+Publishing house_137
+187
+Technical
+Calculus
+Foreign
+Translated
+1807
+Name_138
+Publishing house_138
+619
+Fiction
+Novel
+Play
+Poetry
+Name_139
+Publishing house_139
+553
+Children's
+Tales
+Children's poetry
+Name_140
+Publishing house_140
+175
+Fiction
+Novel
+Play
+Poetry
+Name_141
+Publishing house_141
+97
+Children's
+Not tales
+Children's prose
+Name_142
+Publishing house_142
+238
+Fiction
+Novel
+Not play
+Poetry
+Name_143
+Publishing house_143
+100
+Children's
+Tales
+Children's poetry
+Name_144
+Publishing house_144
+902
+Technical
+Math
+National
+Untranslated
+1994
+Name_145
+Publishing house_145
+669
+Fiction
+Not novel
+Play
+Prose
+Name_146
+Publishing house_146
+977
+Fiction
+Novel
+Not play
+Prose
+Name_147
+Publishing house_147
+703
+Children's
+Not tales
+Children's poetry
+Name_148
+Publishing house_148
+956
+Technical
+Programming
+National
+Untranslated
+1858
+Name_149
+Publishing house_149
+917
+Technical
+Web-development
+National
+Untranslated
+1904

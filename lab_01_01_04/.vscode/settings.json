@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "constants.h": "c",
+        "item_lib.h": "c",
+        "get_long_numbers.h": "c",
+        "divide_long_numbers.h": "c"
+    }
+}

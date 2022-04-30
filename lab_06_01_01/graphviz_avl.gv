@@ -1,0 +1,5 @@
+digraph avl {
+    1 -> 2 [label=2]
+    2 -> 3 [label=3]
+    3 -> 1
+}
